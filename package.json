@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GavinC4/constructor-hangman.git"
+    "url": 
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GavinC4/constructor-hangman/issues"
+    "url": 
   },
-  "homepage": "https://github.com/GavinC4/constructor-hangman#readme",
+  "homepage": ,
   "dependencies": {
     "prompt": "^1.0.0"
   }
