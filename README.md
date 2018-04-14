@@ -1,1 +1,2 @@
-# Hangman-Constructor
+# constructor-hangman
+Hangman game using Node.js
